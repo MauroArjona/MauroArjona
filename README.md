@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo: Mauro Arjona</h1>
-- 💬 Ask me about **HTML,javascript,PHP**
+
 
 - 📫 How to reach me **arjonasmauro@gmail.com**
 
