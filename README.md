@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo: Mauro Arjona</h1>
 
 
-- 📫 How to reach me **arjonasmauro@gmail.com**
+- 📫Contacto**arjonasmauro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
