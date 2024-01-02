@@ -2,7 +2,7 @@
 <h3 align="center">Soy Analista programador y estudiante de la carrera licenciatura en informatica</h3>
 
 - 📫  [Linkedin](https://www.linkedin.com/in/mauro-arjona-71b6b1279/)
-- 📫  [Portfolio](https://mauroarjona-portfolio.000webhostapp.com/)
+- 📫  [Portfolio](https://mauro-arjona-portfolio.000webhostapp.com/)
 
 - 📫 correo **arjonasmauro@gmail.com**
 
